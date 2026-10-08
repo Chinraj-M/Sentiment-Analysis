@@ -1,0 +1,9 @@
+text,label
+"The government announced new jobs today",Positive
+"The company suffered huge losses this year",Negative
+"The weather remained normal throughout the day",Neutral
+"Stock market reached an all time high",Positive
+"Heavy floods destroyed many villages",Negative
+"The meeting was held on Tuesday",Neutral
+"Scientists discovered a new medicine",Positive
+"The accident injured several passengers",Negative
